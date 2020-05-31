@@ -1,0 +1,127 @@
+﻿<UserControl x:Class="IceCreamKiosk.UserControls.Shops"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:IceCreamKiosk.UserControls"
+             mc:Ignorable="d" 
+             xmlns:map="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             d:DesignHeight="420" d:DesignWidth="1080">
+
+    <materialDesign:DialogHost CloseOnClickAway="False" x:Name="DialogHost">
+        
+        <!-- Definition of Dialog Host -->
+        <materialDesign:DialogHost.DialogContent>
+
+            <Grid x:Name="gdDialogHost">
+                <StackPanel Margin="15" Orientation="Horizontal"  VerticalAlignment="Center">
+
+                    <!-- Devanture's Shop Picture -->
+                    <Rectangle Width="220" Height="150">
+                        <Rectangle.Fill>
+                            <ImageBrush Stretch="UniformToFill" ImageSource="{Binding ImageURL}"  />
+                        </Rectangle.Fill>
+                    </Rectangle>
+
+                    <!-- Shop's Infos -->
+                    <StackPanel Orientation="Vertical" Margin="10">
+                        <!-- Shop's Name -->
+                        <TextBlock Width="Auto" TextAlignment="Center" TextWrapping="Wrap" 
+                                   FontWeight="ExtraBlack" Text="{Binding Name}" 
+                                   Style="{StaticResource MaterialDesignDisplay1TextBlock}" />
+
+                        <!-- Shop's Infos -->
+                        <StackPanel Orientation="Vertical" Margin="10">
+                            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                                <materialDesign:PackIcon Kind="Phone" Margin="0,0,3,0" VerticalAlignment="Center"/>
+                                <TextBlock Text="Phone:&#x09;&#x09;&#x09;" Style="{StaticResource MaterialDesignBody2TextBlock}" FontSize="16" />
+                                <TextBlock Text="{Binding Phone}" FontWeight="SemiBold" VerticalAlignment="Center" FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="0,8,0,0">
+                                <materialDesign:PackIcon Kind="Shop" Margin="0,0,3,0" VerticalAlignment="Center"/>
+                                <TextBlock Text="Address:&#x09;&#x09;&#x09;" Style="{StaticResource MaterialDesignBody2TextBlock}" FontSize="16" />
+                                <TextBlock Text="{Binding Address}" FontWeight="SemiBold" VerticalAlignment="Center" FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="0,8,0,0" >
+                                <materialDesign:PackIcon Kind="Web" Margin="0,0,3,0" VerticalAlignment="Center"/>
+                                <TextBlock Text="Website:&#x09;&#x09;&#x09;" Style="{StaticResource MaterialDesignBody2TextBlock}" FontSize="16"  />
+                                <TextBlock Text="{Binding Website}" FontWeight="SemiBold" VerticalAlignment="Center" FontSize="16" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="0,8,0,10" >
+                                <materialDesign:PackIcon Kind="IceCream" Margin="0,0,3,0" VerticalAlignment="Center"/>
+                                <TextBlock Text="Ice-Creams Offer:&#x09;&#x09;" Style="{StaticResource MaterialDesignBody2TextBlock}" FontSize="16"  />
+                                <TextBlock Text="{Binding Supply.Count}" FontWeight="SemiBold" VerticalAlignment="Center" FontSize="16"/>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <!-- Card Buttons -->
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom">
+                            <Button x:Name="btnDialogOK" Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}" Style="{DynamicResource MaterialDesignFlatButton}" 
+                                    Content="OK"/>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </materialDesign:DialogHost.DialogContent>
+        
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Shop Map -->
+            <materialDesign:Card Background="White" Margin="10" Height="580">
+                <map:Map x:Name="Map" CredentialsProvider="AvTzJZt1E6MHYLyNIogfiPuVFKl5THAE_BCqdscIzXMx_GSDwpOdYUPjBY4vw241" 
+                         ZoomLevel="14" />
+            </materialDesign:Card>
+
+            <!-- Grid Splitter to split the page -->
+            <GridSplitter ResizeDirection="Columns" Width="10"
+                          Background="LightBlue"
+                          VerticalAlignment="Stretch" />
+
+            <!-- Presentation of all shops -->
+            <ScrollViewer Grid.Column="2" Background="AliceBlue">
+                <ItemsControl x:Name="ListViewProducts" ItemsSource="{Binding Shop}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+
+                            <!-- Card of result -->
+                            <StackPanel>
+                                <materialDesign:Card Background="White" Padding="12" Margin="10" Width="260"
+                                                     MouseLeftButtonUp="Card_MouseLeftButtonUp">
+                                    <StackPanel Orientation="Horizontal" Margin="1">
+
+                                        <!-- Picture -->
+                                        <Ellipse Width="75" Height="75">
+                                            <Ellipse.Fill>
+                                                <ImageBrush Stretch="UniformToFill" ImageSource="{Binding ImageURL}"  />
+                                            </Ellipse.Fill>
+                                        </Ellipse>
+
+                                        <!-- Infos -->
+                                        <StackPanel Orientation="Vertical" Margin="10">
+                                            <TextBlock VerticalAlignment="Top"   Style="{DynamicResource MaterialDesignTitleTextBlock}" Text="{Binding Name}" />
+                                            <TextBlock Text="{Binding Address}"  TextWrapping="Wrap" HorizontalAlignment="Left" Style="{DynamicResource MaterialDesignBody2TextBlock}"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </materialDesign:Card>
+                            </StackPanel>
+
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+
+                    <!-- Data Visualisation -->
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <WrapPanel/>
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                </ItemsControl>
+            </ScrollViewer>
+        </Grid>
+        
+    </materialDesign:DialogHost>
+</UserControl>

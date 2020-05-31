@@ -1,0 +1,49 @@
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Services\bin\Debug\Services.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Services\bin\Debug\Services.pdb
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Services\bin\Debug\RestSharp.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Services\bin\Debug\WindowsBase.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Services\bin\Debug\RestSharp.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Services\obj\Debug\Services.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Services\obj\Debug\Services.pdb
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Services\bin\Debug\BE.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Services\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Services\bin\Debug\BE.pdb
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Services\bin\Debug\BE.dll.config
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Services\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\Services\bin\Debug\Services.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\Services\bin\Debug\Services.pdb
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\Services\bin\Debug\BE.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\Services\bin\Debug\RestSharp.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\Services\bin\Debug\WindowsBase.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\Services\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\Services\bin\Debug\BE.pdb
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\Services\bin\Debug\BE.dll.config
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\Services\bin\Debug\RestSharp.xml
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\Services\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\Services\obj\Debug\Services.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\Services\obj\Debug\Services.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\bin\Debug\Services.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\bin\Debug\Services.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\bin\Debug\BE.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\bin\Debug\RestSharp.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\bin\Debug\WindowsBase.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\bin\Debug\BE.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\bin\Debug\BE.dll.config
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\bin\Debug\RestSharp.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\obj\Debug\Services.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Services\obj\Debug\Services.pdb

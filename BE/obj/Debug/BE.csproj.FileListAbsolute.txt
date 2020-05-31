@@ -1,0 +1,61 @@
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\bin\Debug\BE.dll.config
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\bin\Debug\BE.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\bin\Debug\BE.pdb
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\bin\Debug\Google.Protobuf.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\bin\Debug\System.Buffers.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\bin\Debug\System.Memory.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\bin\Debug\Google.Protobuf.pdb
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\bin\Debug\Google.Protobuf.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\bin\Debug\System.Buffers.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\bin\Debug\System.Memory.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\obj\Debug\BE.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BE\obj\Debug\BE.pdb
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\bin\Debug\BE.dll.config
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\bin\Debug\BE.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\bin\Debug\BE.pdb
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\bin\Debug\Google.Protobuf.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\bin\Debug\System.Buffers.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\bin\Debug\System.Memory.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\bin\Debug\Google.Protobuf.pdb
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\bin\Debug\Google.Protobuf.xml
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\bin\Debug\System.Buffers.xml
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\bin\Debug\System.Memory.xml
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\obj\Debug\BE.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BE\obj\Debug\BE.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\bin\Debug\BE.dll.config
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\bin\Debug\BE.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\bin\Debug\BE.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\bin\Debug\Google.Protobuf.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\bin\Debug\System.Buffers.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\bin\Debug\System.Memory.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\bin\Debug\Google.Protobuf.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\bin\Debug\Google.Protobuf.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\bin\Debug\System.Buffers.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\bin\Debug\System.Memory.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\obj\Debug\BE.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BE\obj\Debug\BE.pdb

@@ -1,0 +1,197 @@
+﻿<UserControl x:Class="IceCreamKiosk.UserControls.Rate"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:IceCreamKiosk.UserControls"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:map="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Panel Cover -->
+        <Border  x:Name="pnlBeforeIceCream" Background="Azure" 
+                 Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2" Panel.ZIndex="1"
+                 HorizontalAlignment="Stretch">
+            <materialDesign:PackIcon Kind="CommentTextMultiple" VerticalAlignment="Center" HorizontalAlignment="Center"
+                                     Width="150" Height="150" Foreground="#55A7E5"/>
+        </Border>
+
+        <!-- Selection of Ice Creams -->
+        <ScrollViewer Background="#FFF1F1F1" Grid.RowSpan="2" HorizontalAlignment="Center">
+            <ItemsControl x:Name="ListViewIceCreams">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        
+                        <!-- Card of each Ice Cream -->
+                        <materialDesign:Card Background="White" Padding="12" Margin="10" Width="265"
+                                             MouseLeftButtonUp="CardIceCream_MouseLeftButtonUp">
+                            <StackPanel Orientation="Horizontal" Margin="1">    
+                                
+                                <!-- Picture of Ice Cream -->
+                                <Ellipse Width="75" Height="75">
+                                    <Ellipse.Fill>
+                                        <ImageBrush Stretch="UniformToFill" ImageSource="{Binding ImageURL}"  />
+                                    </Ellipse.Fill>
+                                </Ellipse>
+                                
+                                <!-- Ice Cream's Presentation -->
+                                <StackPanel Orientation="Vertical" Margin="10">
+                                    <TextBlock VerticalAlignment="Top" Style="{DynamicResource MaterialDesignTitleTextBlock}" Text="{Binding Name}" />
+                                    <TextBlock Margin="1,0,0,0" Text="{Binding Description}" HorizontalAlignment="Left" Style="{DynamicResource MaterialDesignBody2TextBlock}"
+                                               TextWrapping="WrapWithOverflow" MaxWidth="200" />
+                                </StackPanel>
+                            </StackPanel>
+                        </materialDesign:Card>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+                
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <VirtualizingStackPanel/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+            </ItemsControl>
+        </ScrollViewer>
+
+        <!-- Ice Cream Infos Card -->
+        <materialDesign:Card Margin="10" Background="White" Foreground="Black" Grid.Column="1"
+                                         Padding="8">
+            <StackPanel  Orientation="Horizontal"  x:Name="stkpIceCreamInfos">
+
+                <!-- Ice Cream Picture -->
+                <Ellipse Width="150" Height="150">
+                    <Ellipse.Fill>
+                        <ImageBrush Stretch="UniformToFill" ImageSource="{Binding ImageURL}"  />
+                    </Ellipse.Fill>
+                </Ellipse>
+
+                <!-- Ice Cream Infos -->
+                <StackPanel Orientation="Vertical" Margin="10">
+
+                    <!-- Name, Flavour and Description -->
+                    <TextBlock Width="200" Margin="15,5" TextWrapping="Wrap" Text="{Binding Name}" Style="{StaticResource MaterialDesignDisplay1TextBlock}" />
+                    <TextBlock Width="200" Margin="15,5" TextWrapping="Wrap" Text="{Binding Flavour}" Style="{StaticResource MaterialDesignHeadlineTextBlock}" />
+                    <TextBlock  Width="200" Margin="15,5" TextWrapping="Wrap" FontSize="15" Text="{Binding Description}" Style="{StaticResource MaterialDesignDisplay3TextBlock}" />
+
+                    <!-- Energy, Sugar, Fat, Name, Rate -->
+                    <StackPanel Orientation="Vertical" Margin="10">
+                        <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                            <materialDesign:PackIcon Kind="Flash" Margin="0,0,3,0" VerticalAlignment="Center"/>
+                            <TextBlock Text="Energy:&#x09;&#x09;" Style="{StaticResource MaterialDesignBody2TextBlock}" FontSize="16" />
+                            <TextBlock Name="e" Text="{Binding Energy}" FontWeight="SemiBold" VerticalAlignment="Center" FontSize="16"/>
+                            <TextBlock Text=" KCAL" Style="{StaticResource MaterialDesignBody2TextBlock}" FontSize="16"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,8,0,0">
+                            <materialDesign:PackIcon Kind="CubeOutline" Margin="0,0,3,0" VerticalAlignment="Center"/>
+                            <TextBlock Text="Sugar:&#x09;&#x09;" Style="{StaticResource MaterialDesignBody2TextBlock}" FontSize="16" />
+                            <TextBlock x:Name="s" Text="{Binding Sugar}" FontWeight="SemiBold" VerticalAlignment="Center" FontSize="16" />
+                            <TextBlock Text=" g" Style="{StaticResource MaterialDesignBody2TextBlock}" FontSize="16"  />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,8,0,0" >
+                            <materialDesign:PackIcon Kind="WaterOutline" Margin="0,0,3,0" VerticalAlignment="Center"/>
+                            <TextBlock Text="Fat:&#x09;&#x09;" Style="{StaticResource MaterialDesignBody2TextBlock}" FontSize="16"  />
+                            <TextBlock x:Name="f" Text="{Binding Fat}" FontWeight="SemiBold" VerticalAlignment="Center" FontSize="16" />
+                            <TextBlock Text=" g" Style="{StaticResource MaterialDesignBody2TextBlock}" FontSize="16"  />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,8,0,0" >
+                            <materialDesign:PackIcon Kind="Shop" Margin="0,0,3,0" VerticalAlignment="Center"/>
+                            <TextBlock Text="Sold in:&#x09;&#x09;" Style="{StaticResource MaterialDesignBody2TextBlock}" FontSize="16"  />
+                            <TextBlock  Text="{Binding Shop.Name}" FontWeight="SemiBold" VerticalAlignment="Center" FontSize="16"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,8,0,10" >
+                            <materialDesign:PackIcon Kind="Star" Margin="0,0,3,0" VerticalAlignment="Center"/>
+                            <TextBlock Text="Rate:&#x09;&#x09;" Style="{StaticResource MaterialDesignBody2TextBlock}" FontSize="16"  />
+                            <TextBlock x:Name="txtAverageRate" Text="{Binding AverageRate}" FontWeight="SemiBold" VerticalAlignment="Center" FontSize="16"/>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </materialDesign:Card>
+
+        <!-- Ice Cream Comments -->
+        <ScrollViewer Background="AliceBlue" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2">
+            <ItemsControl x:Name="ListViewIceCreamsRatings">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        
+                        <!-- Comment Card -->
+                        <materialDesign:Card Background="White" Padding="12" Margin="10" MaxWidth="250" Width="250">
+                            <StackPanel>
+                                <StackPanel Orientation="Horizontal" Margin="1">
+                                    <Ellipse Width="50" Height="50">
+                                        <Ellipse.Fill>
+                                            <ImageBrush Stretch="UniformToFill" ImageSource="{Binding ImageURL}"  />
+                                        </Ellipse.Fill>
+                                    </Ellipse>
+                                    
+                                    <!-- Title, Description -->
+                                    <StackPanel Orientation="Vertical" Margin="10">
+                                        <TextBlock VerticalAlignment="Top" Style="{DynamicResource MaterialDesignTitleTextBlock}" Text="{Binding Author}" TextWrapping="Wrap" MaxWidth="120"/>
+                                        <TextBlock Margin="1 0 0 0" Text="{Binding Description}" Style="{DynamicResource MaterialDesignTitleTextBlock}" HorizontalAlignment="Left" FontSize="12" TextWrapping="Wrap" MaxWidth="200"/>
+                                    </StackPanel>
+                                </StackPanel>
+
+                                <materialDesign:RatingBar Value="{Binding Rate}" IsReadOnly="True" />
+                            </StackPanel>
+                        </materialDesign:Card>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+                
+                <!-- Data Visualisation -->
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                
+            </ItemsControl>
+        </ScrollViewer>
+
+        <!-- Comment Part -->
+        <ScrollViewer x:Name="stkpRating" Grid.Column="2" Grid.RowSpan="1" VerticalAlignment="Center">
+            <StackPanel Margin="10">
+
+                <!-- Author, Rate, Description, Button to Picture, Button to Rate -->
+                <TextBox x:Name="txtIceCream" Text="{Binding Author}" Margin="0,5"
+                             materialDesign:HintAssist.Hint="Author"
+                             Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                             FontFamily="Champagne &amp; Limousines" FontSize="18"  />
+
+                <materialDesign:RatingBar
+                        x:Name="ratingBar"
+                        Value="{Binding Rate}"
+                        Margin="10"
+                        HorizontalAlignment="Center"/>
+
+                <Border BorderBrush="LightGray" BorderThickness="1" >
+                    <TextBox Style="{StaticResource MaterialDesignOutlinedTextFieldTextBox}"
+                             Text="{Binding Description}"
+                             materialDesign:HintAssist.Hint="Description"
+                             Height="120"
+                             AcceptsReturn="True"
+                             TextWrapping="Wrap"
+                             BorderBrush="Red"
+                             VerticalScrollBarVisibility="Auto" />
+                </Border>
+
+                <Button x:Name="btnAddPicture" Margin="15" Content="ADD PICTURE" Click="btnAddPicture_Click"/>
+                <Button x:Name="btnAddRate" Margin="15,5,15,0" Content="ADD RATE" Click="btnAddRate_Click"/>
+
+            </StackPanel>
+        </ScrollViewer>
+        
+    </Grid>
+</UserControl>

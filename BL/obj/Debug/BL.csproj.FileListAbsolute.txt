@@ -1,0 +1,61 @@
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\bin\Debug\BL.dll.config
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\bin\Debug\BL.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\bin\Debug\BL.pdb
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\bin\Debug\BE.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\bin\Debug\DAL.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\bin\Debug\Interfaces.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\bin\Debug\BE.pdb
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\bin\Debug\BE.dll.config
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\bin\Debug\DAL.pdb
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\bin\Debug\DAL.dll.config
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\bin\Debug\Interfaces.pdb
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\bin\Debug\Interfaces.dll.config
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\obj\Debug\BL.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\BL\obj\Debug\BL.pdb
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\bin\Debug\BL.dll.config
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\bin\Debug\BL.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\bin\Debug\BL.pdb
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\bin\Debug\BE.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\bin\Debug\DAL.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\bin\Debug\Interfaces.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\bin\Debug\BE.pdb
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\bin\Debug\BE.dll.config
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\bin\Debug\DAL.pdb
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\bin\Debug\DAL.dll.config
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\bin\Debug\Interfaces.pdb
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\bin\Debug\Interfaces.dll.config
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\obj\Debug\BL.dll
+C:\Users\gabri\Source\Repos\IceCreamKiosk2\BL\obj\Debug\BL.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\bin\Debug\BL.dll.config
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\bin\Debug\BL.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\bin\Debug\BL.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\bin\Debug\BE.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\bin\Debug\DAL.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\bin\Debug\Interfaces.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\bin\Debug\EntityFramework.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\bin\Debug\BE.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\bin\Debug\BE.dll.config
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\bin\Debug\DAL.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\bin\Debug\DAL.dll.config
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\bin\Debug\Interfaces.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\bin\Debug\Interfaces.dll.config
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\bin\Debug\EntityFramework.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\obj\Debug\BL.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\BL\obj\Debug\BL.pdb

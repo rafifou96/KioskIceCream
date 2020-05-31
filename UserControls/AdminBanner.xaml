@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="IceCreamKiosk.UserControls.AdminBanner"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:IceCreamKiosk.UserControls"
+             mc:Ignorable="d" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             d:DesignHeight="480" d:DesignWidth="1080">
+    <Grid>
+        <!--<Grid Height="50" VerticalAlignment="Top" Background="#ff9be5">
+            <ListView x:Name="ListViewMenu" SelectionChanged="ListViewMenu_SelectionChanged">
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Orientation="Horizontal"></StackPanel>
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
+
+                <ListViewItem x:Name="ItemShop" VerticalAlignment="Center">
+                    <Button Content="SHOPS" VerticalAlignment="Center" Background="{x:Null}" BorderBrush="{x:Null}"  materialDesign:RippleAssist.IsDisabled="True"/>
+                </ListViewItem>
+                <ListViewItem x:Name="ItemSearch" VerticalAlignment="Center">
+                    <Button Content="SEARCH" VerticalAlignment="Center" Background="{x:Null}" BorderBrush="{x:Null}"  materialDesign:RippleAssist.IsDisabled="True"/>
+                </ListViewItem>
+                <ListViewItem x:Name="ItemRate" VerticalAlignment="Center">
+                    <Button Content="RATE" VerticalAlignment="Center" Background="{x:Null}" BorderBrush="{x:Null}" materialDesign:RippleAssist.IsDisabled="True"/>
+                </ListViewItem>
+            </ListView>
+        </Grid>-->
+        
+        <Grid x:Name="GridMain" Margin="0,50,0,0" />
+    </Grid>
+</UserControl>

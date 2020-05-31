@@ -1,0 +1,95 @@
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Tests.exe.config
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Tests.exe
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Tests.pdb
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\BE.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\BL.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\DAL.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\RestSharp.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Services.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\System.Buffers.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\System.Memory.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Interfaces.dll
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\BE.pdb
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\BE.dll.config
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\BL.pdb
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\BL.dll.config
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\DAL.pdb
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\DAL.dll.config
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Services.pdb
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\RestSharp.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\System.Buffers.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\System.Memory.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Interfaces.pdb
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\bin\Debug\Interfaces.dll.config
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\obj\Debug\Tests.exe
+C:\Users\gabri\Desktop\JCT\A3 S1\Maharahot Halonot\Projet Raph\IceCreamKiosk\Tests\obj\Debug\Tests.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Tests.exe.config
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Tests.exe
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Tests.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\BE.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\BL.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\DAL.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\EntityFramework.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\RestSharp.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Services.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\System.Buffers.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\System.Memory.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Interfaces.dll
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\BE.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\BE.dll.config
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\BL.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\BL.dll.config
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\DAL.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\DAL.dll.config
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Services.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\EntityFramework.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\RestSharp.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\System.Buffers.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\System.Memory.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Interfaces.pdb
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\bin\Debug\Interfaces.dll.config
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\obj\Debug\Tests.exe
+C:\Users\Raphael Amar\source\repos\IceCreamKiosk\Tests\obj\Debug\Tests.pdb
